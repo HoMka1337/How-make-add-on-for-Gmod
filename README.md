@@ -1,1 +1,24 @@
-I'll teach you how to make your own addon for the game Gmod,don’t worry that it will be difficult to do them, there is a Wiki for this, before you start you need to know at least something about lua, so let's get started, first of all you need to go to the root folder Garry's Mod, secondly, go to the folder where all your addons are located, then there we create a folder for your addon, in this folder we make another folder lua, if you want to make your own weapons or scripts or gamemode or uu and etc., then you need folders like "autorun, bin, derma, drive, effects, entities, inducles, includes, matproxy, menu, postprocess, vgui, weapons, gamemodes, models, sound, resource, particels, material." I’ll write you all their identifications, so don’t worry, everything will work out for you.
+-----------------------
+Create an addon folder:
+-----------------------
+In the Garry's Mod directory, create a new folder in the "addons" folder with a unique name for your addon.
+
+-----------------------
+Addon folder structure:
+-----------------------
+lua: This folder will contain your Lua scripts.
+materials: Store textures and materials here.
+models: Place 3D models for your addon in this folder.
+sound: If there are sound files, put them here.
+Write Lua scripts:
+Write your scripts for the addon in the lua folder. This could be weapon scripts, NPC scripts, effects, etc.
+
+-----------------------
+Create content:
+-----------------------
+Add textures, models, and sounds to their respective folders.
+
+-----------------------
+Create an info file:
+-----------------------
+In the root of your addon folder, create an addon.txt file. Provide information about your addon in this file.
