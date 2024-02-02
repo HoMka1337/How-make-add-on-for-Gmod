@@ -1,0 +1,12 @@
+"AddonInfo"
+{
+	"name"		"Your addon name"
+	"version"	"Addon version (e.g., 1.0)"
+	"author_name"	"Your name or nickname"
+	"author_email"	"Your email address"
+	"info"		"Brief description of the addon"
+	"override"	"0"	// Set to "1" if you want your addon to override others
+	"icon"		"materials/vgui/entities/your_icon.vmt" // Path to the addon icon
+	"nocleanup"	"0"	// Set to "1" if you want to prevent addon cleanup when Garry's Mod is turned off
+}
+
